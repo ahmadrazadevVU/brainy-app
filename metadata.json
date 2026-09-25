@@ -1,0 +1,6 @@
+{
+  "name": "Brainy",
+  "description": "Gamified digital-wellbeing companion that transforms scrolling habits into a playful journey with an emotional cartoon brain mascot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

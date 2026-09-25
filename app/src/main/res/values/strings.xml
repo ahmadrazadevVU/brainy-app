@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Brainy</string>
+    <string name="accessibility_service_description">Brainy observes scrolling gestures in short-video apps to provide mindful digital balance and game reactions.</string>
+</resources>
